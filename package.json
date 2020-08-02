@@ -1,0 +1,16 @@
+{
+  "name": "likebubble",
+  "version": "0.0.1",
+  "description": "like bubble plugin",
+  "main": "dist/likebubble.js",
+  "scripts": {},
+  "author": "dlran",
+  "license": "MIT",
+  "devDependencies": {
+    "@rollup/plugin-buble": "^0.21.3",
+    "rimraf": "^3.0.2",
+    "rollup": "^2.15.0",
+    "rollup-plugin-uglify": "^6.0.4",
+    "uglify-js": "^3.9.4"
+  }
+}
